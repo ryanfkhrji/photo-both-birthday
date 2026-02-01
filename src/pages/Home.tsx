@@ -202,7 +202,7 @@ const Home = () => {
 
             {/* Title */}
             <h1 className="text-2xl md:text-3xl lg:text-4xl font-bold mb-4 font-heading text-center bg-gradient-to-r from-pink-500 via-purple-500 to-pink-500 bg-clip-text text-transparent">
-              Happy Birthday <strong>Indah Febriyanti!</strong>
+              Happy Birthday </br> <strong>Indah Febriyanti!</strong>
             </h1>
 
             {/* Gift Icons */}
